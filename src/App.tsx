@@ -1,4 +1,4 @@
-import React, { useState } from'react';
+import { useState } from'react';
 import { appContainer, board, buttons, deleteBoardButton, loggerButton } from './App.css.ts';
 import BoardList from './components/BoardList/BoardList.tsx';
 import ListsContainer from './components/ListsContainer/ListsContainer.tsx';
